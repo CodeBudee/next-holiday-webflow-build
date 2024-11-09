@@ -1,0 +1,2 @@
+/*! For license information please see booking_success.js.LICENSE.txt */
+var booking_success;(()=>{var __webpack_modules__={"./src/scripts/booking-success/index.ts":()=>{eval('window.addEventListener("DOMContentLoaded", function () { });\nfunction validateToken() { }\n\n\n//# sourceURL=webpack://next-holiday-scripts/./src/scripts/booking-success/index.ts?')}},__webpack_exports__={};__webpack_modules__["./src/scripts/booking-success/index.ts"](),booking_success=__webpack_exports__})();
